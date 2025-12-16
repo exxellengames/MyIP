@@ -12,7 +12,7 @@ Utility for viewing internal and external IP addresses, network testing, and pin
 
 ## Download
 - Latest release:
-  https://github.com/exxellengames/MyDW/releases
+  https://github.com/exxellengames/MyIP/releases
 
 ## Official Website
 - EN: https://exxellengames.great-site.net/en/
